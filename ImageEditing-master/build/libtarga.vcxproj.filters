@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\libtarga.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\libtarga.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{225AF7B0-356C-3361-93F3-0B5343291587}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0AE06469-78A2-32C7-B347-92D56A2E931A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

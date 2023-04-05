@@ -1,0 +1,10 @@
+^C:\USERS\OSCAR\DESKTOP\CARPETAS\COLE\2023.1\COMPUTER GRAPHICS\P1\PROJECT1-TEMPLATE\IMAGEEDITING-MASTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Oscar/Desktop/carpetas/cole/2023.1/Computer Graphics/P1/Project1-Template/ImageEditing-master" "-BC:/Users/Oscar/Desktop/carpetas/cole/2023.1/Computer Graphics/P1/Project1-Template/ImageEditing-master/build" --check-stamp-file "C:/Users/Oscar/Desktop/carpetas/cole/2023.1/Computer Graphics/P1/Project1-Template/ImageEditing-master/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

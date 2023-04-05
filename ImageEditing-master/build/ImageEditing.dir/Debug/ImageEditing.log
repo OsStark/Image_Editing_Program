@@ -1,0 +1,29 @@
+﻿  TargaImage.cpp
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(217,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(358,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(420,83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(428,181): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(476,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(489,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(514,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(520,91): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(569,57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(577,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(963,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(981,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(984,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(990,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(991,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(999,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(1000,37): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(1028,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(1029,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(1045,61): warning C4244: '=': conversion from 'unsigned __int64' to 'unsigned char', possible loss of data
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(1051,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(1054,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(1286,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(1287,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(1492,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(1544,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\src\TargaImage.cpp(1545,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ImageEditing.vcxproj -> C:\Users\Oscar\Desktop\carpetas\cole\2023.1\Computer Graphics\P1\Project1-Template\ImageEditing-master\build\Debug\ImageEditing.exe

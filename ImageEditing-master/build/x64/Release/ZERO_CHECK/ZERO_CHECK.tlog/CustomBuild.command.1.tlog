@@ -1,0 +1,10 @@
+^C:\USERS\OSCAR\DESKTOP\CARPETAS\COLE\2023.1\COMPUTER GRAPHICS\P1\PROJECT1-TEMPLATE\IMAGEEDITING-MASTER\BUILD\CMAKEFILES\B493CD30B9317F0282CEB8E34ACEAB54\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Oscar/Desktop/carpetas/cole/2023.1/Computer Graphics/P1/Project1-Template/ImageEditing-master" "-BC:/Users/Oscar/Desktop/carpetas/cole/2023.1/Computer Graphics/P1/Project1-Template/ImageEditing-master/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Oscar/Desktop/carpetas/cole/2023.1/Computer Graphics/P1/Project1-Template/ImageEditing-master/build/ImageEditing.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
